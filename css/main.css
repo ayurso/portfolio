@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html{
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; /* Плавный переход по навигации */
 }
 
 body {
@@ -59,7 +59,7 @@ img {
 
   font-weight: 300;
   font-size: 72px;
-  line-height: 130%;
+  line-height: 150%;
   text-align: center;
   color: #ffffff;
 }
