@@ -1,8 +1,8 @@
-$(window).on("load", function () {
-  $("#header").vide("./video/coverr.mp4", {
-    playbackRate: 0.5
-  });
-});
+// $(window).on("load", function () {
+//   $("#header").vide("./video/coverr.mp4", {
+//     playbackRate: 0.5
+//   });
+// });
 
 let h=document.getElementById("h");
 let m=document.getElementById("m");
