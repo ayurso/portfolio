@@ -67,7 +67,7 @@ nav {
 
 .header li {
   display: block;
-  padding: 0 20px;
+  padding: 0 15px;
   color: #fff;
   font-size: 18px;
   /* font-family: sans-serif; */
@@ -120,6 +120,7 @@ nav {
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #ffffff;
+  padding: 0 15px;
 }
 
 /* #burger,
